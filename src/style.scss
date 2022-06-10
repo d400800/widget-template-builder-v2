@@ -1,0 +1,10 @@
+$bgColor: '{{bgColor}}';
+$section-color: #222000;
+
+body {
+  background-color: $bgColor;
+}
+
+section {
+  color: $section-color;
+}
